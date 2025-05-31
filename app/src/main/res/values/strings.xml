@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Assignment Evaluation</string>
+
+
+    <string-array name="department_array">
+        <item>Dept</item>
+        <item>CSE</item>
+        <item>EEE</item>
+        <item>ME</item>
+        <item>CE</item>
+        <item>IPE</item>
+        <item>ICT</item>
+        <item>ENG</item>
+        <item>BBA</item>
+    </string-array>
+
+    <string-array name="batch_array">
+        <item>Batch</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+    </string-array>
+
+    <string-array name="sec_array">
+        <item>Section</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+    </string-array>
+
+    <string-array name="user_array_t">
+        <item>Teacher</item>
+        <item>Student</item>
+    </string-array>
+    <string-array name="user_array_s">
+        <item>Student</item>
+        <item>Teacher</item>
+    </string-array>
+
+
+    <string-array name="lt_array">
+        <item>Level-Term</item>
+        <item>1-I</item>
+        <item>1-II</item>
+        <item>2-I</item>
+        <item>2-II</item>
+        <item>3-I</item>
+        <item>3-II</item>
+        <item>4-I</item>
+        <item>4-II</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

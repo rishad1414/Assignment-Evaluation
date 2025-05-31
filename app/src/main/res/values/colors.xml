@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="base_color">#1D8E7F</color>
+    <color name="base_color_light">#1D8E7F</color>
+    <color name="bg_color">#E9F3FA</color>
+    <color name="red">#D32F2F</color>
+    <color name="dark_green">#4CAF50</color>
+
+    <color name="present_color">#E3FCEF </color>
+    <color name="absent_color">#FCE3E3 </color>
+
+
+
+    <color name="green">#10ac84</color>
+
+    <color name="yellow">#feca57</color>
+    <color name="red2">#ee5253</color>
+
+
+    <!-- Cool Blue -->
+    <color name="button_primary_blue">#2196F3</color>
+
+    <!-- Slate Gray -->
+    <color name="button_primary_slate">#FF64748B</color>
+
+    <!-- Teal -->
+    <color name="button_primary_teal">#FF14B8A6</color>
+
+    <!-- Indigo -->
+    <color name="button_primary_indigo">#FF6366F1</color>
+
+    <color name="button_primary_emerald">#FF10B981</color>
+    <color name="button_primary_amber">#FFF59E0B</color>
+    <color name="button_primary_charcoal">#FF1F2937</color>
+    <color name="button_primary_rose">#FFFB7185</color>
+    <color name="button_primary_coolgray">#FF94A3B8</color>
+    <color name="button_primary_violet">#FF8B5CF6</color>
+
+
+    <color name="light_blue">#66B2FF</color>
+    <color name="light_purple">#A589D5</color>
+    <color name="light_orange">#EDAC6B</color>
+
+    <color name="blue">#112FCE</color> <!-- Indigo -->
+
+
+    <color name="buttonPrimary">#3F51B5</color> <!-- Indigo -->
+    <color name="buttonSecondary">#FF4081</color> <!-- Pink -->
+    <color name="buttonSuccess">#4CAF50</color> <!-- Green -->
+    <color name="buttonDanger">#F44336</color> <!-- Red -->
+    <color name="buttonWarning">#FFC107</color> <!-- Amber -->
+    <color name="buttonInfo">#2196F3</color> <!-- Blue -->
+    <color name="buttonDark">#212121</color> <!-- Dark Gray -->
+    <color name="buttonLight">#E0E0E0</color> <!-- Light Gray -->
+
+
+    <color name="buttonDownload">#4CAF50</color> <!-- Green -->
+    <color name="buttonOk">#2196F3</color>        <!-- Blue -->
+    <color name="buttonText">#FFFFFF</color>
+
+
+</resources>

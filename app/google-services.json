@@ -1,0 +1,163 @@
+{
+  "project_info": {
+    "project_number": "512584630711",
+    "firebase_url": "https://agri-mentor-98c8f-default-rtdb.firebaseio.com",
+    "project_id": "agri-mentor-98c8f",
+    "storage_bucket": "agri-mentor-98c8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512584630711:android:d32a5abac3e48dba3e2832",
+        "android_client_info": {
+          "package_name": "com.example.agrimart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_pyP9bHts9K7tbRdT-ZqXM7r5Ivlwvrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512584630711:android:52870e23e85ee0313e2832",
+        "android_client_info": {
+          "package_name": "com.example.agrimarttrader"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_pyP9bHts9K7tbRdT-ZqXM7r5Ivlwvrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512584630711:android:40d37215393a23ef3e2832",
+        "android_client_info": {
+          "package_name": "com.example.agrimentor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_pyP9bHts9K7tbRdT-ZqXM7r5Ivlwvrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512584630711:android:a48d572e1e45e3ed3e2832",
+        "android_client_info": {
+          "package_name": "com.example.assignmentevaluation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_pyP9bHts9K7tbRdT-ZqXM7r5Ivlwvrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512584630711:android:722dbb938e313e673e2832",
+        "android_client_info": {
+          "package_name": "com.example.assinment_evaluation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_pyP9bHts9K7tbRdT-ZqXM7r5Ivlwvrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512584630711:android:6fadf6436cb593ae3e2832",
+        "android_client_info": {
+          "package_name": "com.example.baustmedicare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_pyP9bHts9K7tbRdT-ZqXM7r5Ivlwvrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512584630711:android:e782249e4885b5633e2832",
+        "android_client_info": {
+          "package_name": "com.example.smartclass"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_pyP9bHts9K7tbRdT-ZqXM7r5Ivlwvrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512584630711:android:4b411b0cd3d64bef3e2832",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_pyP9bHts9K7tbRdT-ZqXM7r5Ivlwvrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
